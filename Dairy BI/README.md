@@ -54,10 +54,30 @@
 
 ###
 
-<p align="left">Create Measures:<br>‣ Total Sales<br>‣ Total Orders<br>‣ Inventory Balance<br>‣ Closing Inventory<br>‣ Total Cows<br>‣ Total Production<br>‣ Cow Productivity<br><br>Using:<br>‣ SUM, CALCULATE, LASTNONBLANK, COUNT, DIVIDE functions</p>
+<p align="left">Create Measures:<br>‣ Total Sales<br>‣ Total Orders<br>‣ Inventory Balance<br>‣ Closing Inventory<br>‣ Total Cows<br>‣ Total Production<br>‣ Cow Productivity<br>‣ Acre Productivity<br><br>Using:<br>‣ SUM, CALCULATE, LASTNONBLANK, COUNT, DIVIDE functions</p>
 
 ###
 
 <h4 align="left">➼ Adding Visuals</h4>
+
+###
+
+<h2 align="left">Supply chain Analytics</h2>
+
+###
+
+<h3 align="left">Inventory Breakdown</h3>
+
+###
+
+<p align="left">In turn to examine the inventory performance:<br>Create Measure:<br>‣  Product Shelf life<br>‣  Inventory Turnover<br><br>Note: these measure help in viewing the average shelf life and turnover for every product type to compare them, the area between the two lines represent the products with most non-conforming numbers at which the shelf life has expired before the moving of goods.</p>
+
+###
+
+<h3 align="left">Scheduling Case Study</h3>
+
+###
+
+<p align="left">in turn to schedule orders in week 2<br>Create calculated column:<br>‣ Pending Orders (week 2)<br>Use the calculated column along with sorting and filtering to schedule the orders in FCFS AND EDD methods</p>
 
 ###
